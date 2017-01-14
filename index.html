@@ -1,28 +1,29 @@
 <!DOCTYPE html>
 <html lang="pl">
+
 <head>
 	<meta charset="UTF-8">
 	<title>Git - ćwiczenia</title>
 </head>
+
 <body>
-	<p>kolejny paragraf</p>
-	<p>Treść paragrafu pierwszego</p>
-	<p>Treść drugiego paragrafu</p>
-	<p>treść paragramu 3</p>
-	<form method="POST" action="http://formspree.io/k.sokalla@gmail.com">
+	<form action="http://formspree.io/k.sokalla@gmail.com" method="post">
 		<label for="name">Imię</label>
 		<br/>
-		<input type="text" id="name">
+		<input type="text" id="name" name="name">
 		<br/>
 		<label for="surname">Nazwisko</label>
 		<br/>
-		<input type="text" id="surname">
+		<input type="text" id="surname" name="surname">
 		<br/>
 		<label for="mail">Adres e-mail</label>
 		<br/>
-		<input type="email" id="mail">
+		<input type="email" id="mail" name="_replyto">
+		<label for="message"></label>
+		<input type="text" id="message">
 		<br/>
 		<br/>
 		<input type="submit" value="wyślij"> </form>
 </body>
+
 </html>
