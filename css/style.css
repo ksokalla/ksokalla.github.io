@@ -1,11 +1,18 @@
-* {
-	background-color: #213b50;
-	color: white;
-	margin-left: 5px;
+body {
+	margin: 0;
 }
 
-#container {
-	width: 500px;
+form {
+	width: 70vh;
+	background-color: #213b50;
+	color: white;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+input {
+	margin-top: 1%;
+	font-size: 100%;
 }
 
 input[type="submit"] {
@@ -25,8 +32,9 @@ input,
 textarea,
 select {
 	margin-bottom: 10px;
-	border: 1px solid black;
+	border: 1px solid #2b4a64;
 	background-color: #2b4a64;
+	color: #ffffff;
 }
 
 input[type="text"],
