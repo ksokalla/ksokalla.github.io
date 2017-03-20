@@ -12,7 +12,7 @@ body {
 
 span {
 	font-weight: 700;
-	color: #1ac056;
+	color: #47bec9;
 }
 
 #omnie div.container div.row:nth-child(2) {
@@ -44,7 +44,7 @@ section {
 }
 
 #main-nav.scroll ul.navbar-nav a {
-		color: #1ac056;
+		color: #47bec9;
 		text-decoration: none;
 	}
 
@@ -225,7 +225,7 @@ figure {
 }
 #kontakt a {
 	text-decoration: none;
-	color: #1ac056;
+	color: #47bec9;
 }
 #kontakt a:visited {
 	color:#fff;
