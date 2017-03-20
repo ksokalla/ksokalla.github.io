@@ -49,11 +49,19 @@ section {
 	}
 
 #main-nav ul.navbar-nav a:hover {
-	color: greenyellow;
+	color: #47bec9;
 }
 
 #main-nav.scroll ul.navbar-nav a:hover {
 	color: black;
+}
+
+#brand {
+	margin-bottom: 10px;
+}
+
+#brand:hover {
+	color: #47bec9;
 }
 
 
@@ -236,7 +244,7 @@ figure {
 }
 
 input[type="submit"] {
-	background-color: springgreen;
+	background-color: #47bec9;
 	font-weight: bold;
 	padding: 10px 20px 10px 20px;
 	border: none;
@@ -247,7 +255,7 @@ input[type="submit"] {
 	color: #fff;
 }
 input[type="submit"]:hover {
-	color: springgreen;
+	color: #47bec9;
 	background-color: #fff;
 	cursor: pointer;
 }
