@@ -1,0 +1,51 @@
+@media all and (max-width: 1200px) {
+	
+
+}
+	
+
+	
+	
+@media all and (max-width: 768px){
+	
+	#main-nav {
+		background-color: #fff;
+		border: 0px;
+		text-align: right;
+	
+}
+	
+	
+	#kontakt {
+		text-align: center;	
+	}
+}
+	
+	
+	
+@media all and (max-width: 680px) {
+	 	
+	
+	#header-content {
+		font-size: 70%;
+	}
+	
+	
+}
+	
+	
+
+@media all and (max-width: 480px) {
+	
+	#header-content {
+		
+	}
+	
+	#header-content {
+		width: 300px;
+		
+	}
+	
+	
+}
+	
